@@ -1,4 +1,4 @@
-# Carbon-in-your-hand
+# Carbon in your hand
 Our project is about the carbon footprint and greenhouse gas emissions. We will make an app. The app will help to calculate the carbon footprint for the individuals. And they will be able to know what are the resources of the greenhouse gas in detail. And we will put a page about how to reduce the carbon footprint in modern ways. We will put a map for the earth that shows the quantity of the greenhouse gas emissions in each place and we will put a rank with the countries according to the emissions and we will put a place to share their stories about reducing the greenhouse gas emissions to inspire people to do the same.
 ## What Is Our Carbon Footprint?
 Your challenge is to identify local sources of carbon emissions and/or estimate amounts of carbon emissions for different human activities to aid scientists in mapping carbon sources and sinks. How can you inform decisions to adapt to the consequences of a changing world and aid policy makers in making plans for the future?
@@ -26,3 +26,6 @@ https://climate.nasa.gov/earth-apps/
 https://worldview.earthdata.nasa.gov/?v=-393.0967443662245,-208.84507577925476,375.2782556337755,142.71742422074524&t=2019-02-01-T00%3A00%3A00Z&l=Reference_Labels(hidden),Reference_Features(hidden),Coastlines,MERRA2_Dust_Surface_Mass_Concentration_Monthly,MERRA2_Dust_Surface_Mass_Concentration_PM25_Monthly(hidden),MERRA2_Total_Dust_Deposition_Dry_Wet_Monthly(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&tr=dust_storms_overview_2019
 
 https://climate.nasa.gov/news/2961/new-3d-view-of-methane-tracks-sources-and-movement-around-the-globe/
+
+# Team Members
+![Team Members](https://i.ibb.co/mS6kSDx/image.png)
